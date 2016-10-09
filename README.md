@@ -1,6 +1,8 @@
 # jhu-9-shinyapp
 A scientific project assisted by shinyapp visualisation
 
+URL: https://dudenko.shinyapps.io/jhu-9-shinyapp/
+
 In this project I have decided to kill two crows with one stone.
 For my computational chemistry project, where we study hole and electron mobility in photovoltaic organic functional materials,
 it is extremely important to see how the interaction between adjacent molecules is evolving during molecular dynamics simulation. For more accurate simulation one needs a supercell simulation and therefore one gets a lot of pairwise transfer integrals to visualise. And here comes R together with shinyapp, whihc made my scientific life my easier.
